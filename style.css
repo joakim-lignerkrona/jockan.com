@@ -2,6 +2,10 @@ body {
     background-color: #48455f;
     min-height: 100vh;
     min-width: 100vw;
+    font-family: "REM", sans-serif;
+}
+h1 {
+    font-family: "Ysabeau SC", sans-serif;
 }
 
 a > div:hover {
